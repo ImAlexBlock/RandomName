@@ -1,0 +1,4 @@
+//禁止重复抽取（抽过的就不会再抽了）
+repeat_extraction=true
+//抽取次数，过小会导致观赏性减弱
+extractions_number=100
