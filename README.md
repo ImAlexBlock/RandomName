@@ -1,7 +1,4 @@
 # RandomName V2 Update
-#你需要自己设置name.txt!!!!
-#你需要自己设置name.txt!!!!
-#你需要自己设置name.txt!!!!
 1.更新了挺多东西
 2.重新画了ui
 3.现在程序窗口默认在屏幕中心出现（方便咯）
@@ -12,5 +9,5 @@
 ```//关闭重复抽取（抽过的就不会再抽了）
 repeat_extraction=true
 //抽取次数，过小会导致观赏性减弱
-extractions_number=100```
+extractions_number=100
 
