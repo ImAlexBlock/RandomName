@@ -10,6 +10,8 @@
 repeat_extraction=true
 //抽取次数，过小会导致观赏性减弱
 extractions_number=100```
+
+
 #你需要自己设置name.txt!!!!
 ##你需要自己设置name.txt!!!!
 ###你需要自己设置name.txt!!!!
